@@ -1,5 +1,5 @@
 # Article_QA_Bot
-Article_QA_Bot is a user friendly designed for retrieval of data from a bunch of news article links provided to it.
+Article_QA_Bot is a user friendly web application designed for retrieval of data from a bunch of news article links provided to it.
 
 ![image](https://github.com/user-attachments/assets/a1deb706-44bf-444f-83fb-8817e1c7f127)
 
