@@ -1,16 +1,12 @@
-langchain==0.1.17  # Compatible with both langchain-groq and langchain-huggingface
-langchain-core==0.1.48  # Matches langchain's required version
-langchain-groq==0.0.1
-langchain-huggingface==0.1.1
-
-python-dotenv==1.0.0
-streamlit==1.22.0
-unstructured==0.9.2
-tiktoken==0.4.0
-faiss-cpu==1.7.4
-libmagic==1.0
-# python-magic==0.4.27  # Commented out to prevent conflicts
-# python-magic-bin==0.4.14  # Commented out to prevent conflicts
-openai==0.28.0
+langchain
+langchain-groq
+langchain-huggingface
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+openai
 sentence-transformers
 pickle5
