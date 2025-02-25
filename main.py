@@ -8,17 +8,16 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.document_loaders import UnstructuredURLLoader
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
-
-groq_api_key = "" # Put your API key here
-
 from dotenv import load_dotenv
+
+
 load_dotenv() # takes environment variables from .env
+
 
 # Initialise LLM with required params
 llm = ChatGroq(
     model = "mixtral-8x7b-32768",
     temperature= 0.9,
-    api_key= groq_api_key,
     max_tokens= 500
 )
 
