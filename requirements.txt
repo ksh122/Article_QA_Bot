@@ -9,4 +9,4 @@ faiss-cpu
 libmagic
 openai
 sentence-transformers
-pickle5
+
