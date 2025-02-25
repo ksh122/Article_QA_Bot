@@ -1,5 +1,5 @@
-langchain==0.1.17  # Ensure compatibility with langchain-groq and langchain-huggingface
-langchain-core==0.1.41
+langchain==0.1.17  # Compatible with both langchain-groq and langchain-huggingface
+langchain-core==0.1.48  # Matches langchain's required version
 langchain-groq==0.0.1
 langchain-huggingface==0.1.1
 
