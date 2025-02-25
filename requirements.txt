@@ -11,5 +11,4 @@ OpenAI == 0.28.0
 langchain_groq
 langchain_huggingface
 sentence-transformers
-python-dotenv
 pickle5
